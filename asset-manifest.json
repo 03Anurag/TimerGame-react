@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TimerGame-react/static/css/main.5fb80671.css",
+    "main.js": "/TimerGame-react/static/js/main.377f6f7f.js",
+    "index.html": "/TimerGame-react/index.html",
+    "main.5fb80671.css.map": "/TimerGame-react/static/css/main.5fb80671.css.map",
+    "main.377f6f7f.js.map": "/TimerGame-react/static/js/main.377f6f7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb80671.css",
+    "static/js/main.377f6f7f.js"
+  ]
+}
